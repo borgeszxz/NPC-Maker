@@ -1,0 +1,21 @@
+{
+  "name": "NPCMaker",
+  "tree": {
+    "$className": "Folder",
+    "Main": {
+      "$path": "src/Main.server.luau"
+    },
+    "Utils": {
+      "$className": "Folder",
+      "$path": "src/Utils"
+    },
+    "Modules": {
+      "$className": "Folder",
+      "$path": "src/Modules"
+    },
+    "UI": {
+      "$className": "Folder",
+      "$path": "src/UI"
+    }
+  }
+}

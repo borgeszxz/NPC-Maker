@@ -1,0 +1,4 @@
+__pycache__/
+build/*.rbxm
+build/*.rbxmx
+build/sources.json
